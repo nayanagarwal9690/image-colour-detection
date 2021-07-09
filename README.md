@@ -1,1 +1,1 @@
-# image-colour-detection
+# image-color-detection
